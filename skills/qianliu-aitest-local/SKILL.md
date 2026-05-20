@@ -40,7 +40,7 @@ node <skill目录>/scripts/health_check.js --port 8123
   - 若用户表示已启动服务，可能是端口不同，需要询问用户实际端口号
   - 使用用户提供的端口重新执行：`node <skill目录>/scripts/health_check.js --port {用户端口}`
 
-> **Node.js 环境依赖**：若测试用例涉及浏览器操作（如 Web 页面自动化），客户端需依赖 **Node.js >= 22** 环境。请提前安装：[node-v22.14.0-x64.msi](https://devops.sangfor.com/static/attachments/software/node-v22.14.0-x64.msi)
+> **Node.js 环境依赖**：若测试用例涉及浏览器操作（如 Web 页面自动化），客户端需依赖 **Node.js >= 22** 环境。请提前安装：[node-v22.14.0-x64.msi](https://nodejs.org/dist/v22.22.3/node-v22.22.3-x64.msi)
 
 > 配置文件路径：`{任务目录}/aitest-local-config.yaml`
 > 参考 `<skill目录>/assets/example/aitest-local-config.example.yaml`
