@@ -2,6 +2,11 @@
 
 qianliu 平台的 Claude Code Skills 集合仓库。
 
+## 安装
+```
+npx skills add Sudley/qianliu-skills --skill qianliu-aitest-local
+```
+
 ## 目录结构
 
 ```
