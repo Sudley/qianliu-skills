@@ -1,0 +1,7 @@
+# 本地AI测试服务配置
+port: 8123                          # 本地服务端口（默认8123）
+client_id: "your-client-id"        # 从健康检查接口自动获取
+testcase_type: "xlsx"               # 用例文件格式：xlsx | json | markdown
+testcase_path: "./testcases.xlsx"   # 用例文件路径（绝对或相对于cwd，扩展名需与 testcase_type 一致）
+concurrency: 3                      # 并发执行数（1-3，默认3）
+knowledge_path: ""                  # 测试知识库文件路径（yaml，可选）。为空或不填则不加载测试知识库

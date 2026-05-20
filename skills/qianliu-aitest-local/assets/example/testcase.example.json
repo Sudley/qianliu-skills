@@ -1,0 +1,21 @@
+[
+  {
+    "feature_name": "",
+    "case_id": "",
+    "case_title": "",
+    "preconditions": "前置步骤",
+    "steps": "执行步骤",
+    "postconditions": "后置步骤",
+    "expected_results": "期望结果",
+    "test_method": "自动化测试",
+    "case_type": "",
+    "is_automatable": "是",
+    "tags": "",
+    "author": "",
+    "requirement_id": "",
+    "issue_id": "",
+    "experience_id": "",
+    "priority": "",
+    "remarks": ""
+  }
+]
