@@ -7,7 +7,7 @@
 ## 环境要求
 
 - **千流灵测客户端**（必须）— [下载安装](http://chatgpt.sangfor.com/e2eplugin/update/main/install/prod_v2/install.exe)，启动后默认监听端口 `8123`
-- **Node.js >= 22**（浏览器操作需要）— [下载安装](https://devops.sangfor.com/static/attachments/software/node-v22.14.0-x64.msi)，普通测试用例无需安装
+- **Node.js >= 22**（浏览器操作需要）— [下载安装](https://nodejs.org/dist/v22.22.3/node-v22.22.3-x64.msi)，普通测试用例无需安装
 
 ---
 
